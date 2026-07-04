@@ -1,6 +1,6 @@
 // ==UserScript==
-// @name         Min - Floating Media Dock (PelotaLibre & Telefe)
-// @namespace    UserScript.FloatingDock
+// @name         Lite - Floating Media Dock (PelotaLibre & Telefe)
+// @namespace    UserScript.lite.FloatingDock
 // @version      1.0
 // @description  Dock lateral flotante, arrastrable y con diseño premium.
 // @author       Emanuel
