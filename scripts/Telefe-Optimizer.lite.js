@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Telefe Clean Player UI Lite
-// @namespace    telefe.clean.min.ui
+// @namespace    telefe.clean.lite.ui
 // @version      1.0.0
 // @description  UI minimalista para Telefe Vivo
 // @match        https://www.mitelefe.com/vivo/*
