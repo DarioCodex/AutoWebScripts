@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         PelotaLibre Optimizer Lite v8 (Optimized)
-// @namespace    pelotalibre.optimizer.min.v8
+// @namespace    pelotalibre.optimizer.lite.v8
 // @version      8.1.0
-// @description  Versión liviana optimizada
+// @description  Versión liviana
 // @match        https://pelotalibretv.com.co/*
 // @grant        none
 // @run-at       document-start
